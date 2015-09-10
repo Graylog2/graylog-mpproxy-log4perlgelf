@@ -1,2 +1,3 @@
-# graylog-mpproxy-log4perlgelf
-Log::Log4perl::Layout::GELF
+This is a Marketplace placeholder for a community GELF library that has not been submitted by the user.
+
+Follow this link to reach the GELF library: https://github.com/cowholio4/log4perl_gelf
